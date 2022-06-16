@@ -9,3 +9,5 @@ Demo project for Python CI/CD example. Source files can be found in `./index`.
   - Configuration files are already present.
   - Install sphinx with `pip install sphinx`.
   - To generate HTML, run `sphinx-apidoc -o . index` and then `make html`
+
+[![pages-build-deployment](https://github.com/Deepika-JB/example-python/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/Deepika-JB/example-python/actions/workflows/pages/pages-build-deployment)
